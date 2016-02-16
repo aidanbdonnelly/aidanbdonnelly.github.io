@@ -2,7 +2,13 @@
   text-align: center;
   margin-top: 300px;
   font-size: 40px;
+  
+}
+.splashlink a {
   color: red;
+}
+.splashlink a:visited {
+  color: orange;
 }
 
 .alienbackground {
