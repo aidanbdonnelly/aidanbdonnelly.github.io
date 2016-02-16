@@ -7,4 +7,6 @@
 
 .alienbackground {
   background-image: url("http://spaceaim.com/wp-content/uploads/2015/08/1418824037space.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
