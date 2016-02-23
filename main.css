@@ -16,3 +16,9 @@
   background-repeat: no-repeat;
   background-size: 100% 220%;
 }
+
+.mainbackground {
+  background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUO8nEOIL1ot7MAMcywAiEbBKNa8W4yAO_0jQYaIIutEf2OHmx);
+  background-repeat: no-repeat;
+  background-size: 100% 220%;
+}
